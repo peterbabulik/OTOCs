@@ -1,3 +1,4 @@
+[# Experiment: OTOCs as a Measure of Circuit Complexity](https://github.com/peterbabulik/OTOCs/blob/main/OTOCs_as_a_Measure_of_Circuit_Complexity.ipynb)
 # Experiment: OTOCs as a Measure of Circuit Complexity
 
 This document details a specific experiment from the main OTOCs project: using the Out-of-Time-Order Correlator (OTOC) not just to observe physical phenomena, but as a **quantitative tool to analyze the complexity of generic quantum circuits**.
