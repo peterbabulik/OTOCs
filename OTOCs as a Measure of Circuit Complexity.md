@@ -19,12 +19,6 @@ The core of the experiment is as follows:
 
 ## Results
 
-The simulation was performed on a 12-qubit chain, averaging over 1000 random circuit instances per depth, with 4000 measurement shots for each instance.
-
-![Scrambling Power of Random Circuits](https://github.com/peterbabulik/OTOCs/raw/main/picture5.png)
-
-The numerical results confirm the visual finding:
-
 | Depth | Avg. OTOC Proxy |
 |-------|-----------------|
 | 0     | 0.0010          |
